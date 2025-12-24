@@ -12,6 +12,7 @@ namespace FB_Reservations_System
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
+            //عامل اي يابو اكمل 
         }
     }
 }
